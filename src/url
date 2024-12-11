@@ -1,0 +1,6 @@
+
+http://localhost/tienda_ropa/API/api.php?reporte=marcas_con_ventas
+
+http://localhost/tienda_ropa/API/api.php?reporte=prendas_vendidas_stock
+
+http://localhost/tienda_ropa/API/api.php?reporte=top_marcas_vendidas
